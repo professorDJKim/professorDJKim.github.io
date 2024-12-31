@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : " CodeCatalystLab"
+title                    : "CodeCatalystLab"
 title_separator          : "-"
 name                     : &name "Dong Jae Kim"
 description              : &description "Assistant Professor"
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "professorDJKim"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
