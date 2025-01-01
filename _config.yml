@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "CodeCatalystLab"
+title                    : "SABR-Lab"
 title_separator          : "-"
 name                     : &name "Dong Jae Kim"
 description              : &description "Assistant Professor"
