@@ -15,10 +15,9 @@ Dr. Kim's research focuses on software engineering topics, including software de
 At DePaul University Dr. Kim is a director of the **S**oftware Analysis, **A**utomation, **B**enchmarking and **R**e-engineering Lab (SABR Lab). Our group is dedicated to advancing the frontiers of intelligent software engineering. Our mission is to develop innovative methodologies and tools that improve the quality, efficiency, and reliability of modern software systems.
 
 ## Position Opening ##
-  <div style="background-color:#3cb371; padding: 10px;"> 
+  <div style="background-color:cornsilk; padding: 10px;"> 
 
-SABR Lab @ DePaul is looking for highly-motivated MSc and PhD students for Spring 2025 and Fall 2025. If you have proficient programming skills with strong interests in Software Engineering, please contact Dr. kim via email with your CV, transcript, and a brief letter of interest.
-
+SABR Lab @ DePaul is looking for highly-motivated MSc and PhD students for Spring 2025 and Fall 2025. If you have proficient programming skills with strong interests in Software Engineering, please contact Dr. kim via [email](dkim121@depaul.edu) with your CV, transcript, and a brief letter of interest. Please refer to [link](https://professordjkim.github.io//opening/) for more information.
    </div>
 
 
