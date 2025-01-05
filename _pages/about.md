@@ -17,7 +17,8 @@ At DePaul University Dr. Kim is a director of the **S**oftware Analysis, **A**ut
 ## Position Opening ##
   <div style="background-color:cornsilk; padding: 10px;"> 
 
-SABR Lab @ DePaul is looking for highly-motivated MSc and PhD students for Spring 2025 and Fall 2025. If you have proficient programming skills with strong interests in Software Engineering, please contact Dr. kim via [email](dkim121@depaul.edu) with your CV, transcript, and a brief letter of interest. Please refer to [link](https://professordjkim.github.io//opening/) for more information.
+SABR Lab @ DePaul is looking for highly-motivated MSc and PhD students for Spring 2025 and Fall 2025. If you have proficient programming skills with strong interests in Software Engineering, please contact Dr. kim via <a href="dkim121@depaul.edu">email</a> with your CV, transcript, and a brief letter of interest. Please refer to
+<a href="https://professordjkim.github.io//opening/">email</a> for more information.
    </div>
 
 
