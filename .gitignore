@@ -11,3 +11,8 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Ignore publication files
+_publications/2009-10-01-paper-title-number-1.md
+_publications/2009-10-01-paper-title-number-2.md
+_publications/2009-10-01-paper-title-number-3.md
