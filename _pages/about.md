@@ -12,7 +12,7 @@ Dr. Dong Jae (DJae) Kim is an Assistant Professor at the Jarvis School of Comput
 Dr. Kim's research focuses on software engineering topics, including software debugging, software testing, software maintainability, software qualit assurances, software re-engineering, program analysis, mining software repositories and AI-driven software engineering. Currently, Dr. Kim's research is on benchmarking capability of large-language models on software engineering tasks. 
 
 ## SABR-Lab ##
-At DePaul University Dr. Kim is a director of the **S**oftware Analysis, **A**utomation, **B**enchmarking and **R**e-engineering Lab (SABR Lab). Our group is dedicated to advancing the frontiers of intelligent software engineering. Our mission is to develop innovative methodologies and tools that improve the quality, efficiency, and reliability of modern software systems.
+At DePaul University Dr. Kim is a director of the <b><font color='red'>S</font><b/>oftware Analysis, <b><font color='red'>A</font><b/>utomation, <b><font color='red'>B</font><b/>enchmarking and <b><font color='red'>R</font><b/>e-engineering Lab (<b><font color='red'>SABR Lab</font><b/>). Our group is dedicated to advancing the frontiers of intelligent software engineering. Our mission is to develop innovative methodologies and tools that improve the quality, efficiency, and reliability of modern software systems.
 
 ## Position Opening ##
   <div style="background-color:cornsilk; padding: 10px;"> 
