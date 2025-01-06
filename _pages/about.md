@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Dong Jae (DJae) Kim is an Assistant Professor at the Jarvis School of Computing at DePaul University, Chicago, Illinois, USA. Prior to joining DePaul, An Ran received his Ph.D. from Concordia University, Canada in August 2024, under the supervision of Dr. Tse-Hsun (Peter) Chen. During his Ph.D., Dr. Kim worked as a technical consultant for Ericsson in 2023 and data anomaly engineer at ERA-Environmental Management solution in 2024. Before starting his graduate studies in 2019, Dr. Kim also worked at the various web-based startup as a software engineer.
+Dr. Dong Jae (DJae) Kim is an Assistant Professor at the Jarvis School of Computing at DePaul University, Chicago, Illinois, USA. Prior to joining DePaul, Dr. Kim received his Ph.D. from Concordia University, Canada in August 2024, under the supervision of Dr. Tse-Hsun (Peter) Chen. During his Ph.D., Dr. Kim worked as a technical consultant for Ericsson in 2023 and data anomaly engineer at ERA-Environmental Management solution in 2024. Before starting his graduate studies in 2019, Dr. Kim also worked at the various web-based startup as a software engineer.
 
 Dr. Kim's research focuses on software engineering topics, including software debugging, software testing, software maintainability, software qualit assurances, software re-engineering, program analysis, mining software repositories and AI-driven software engineering. Currently, Dr. Kim's research is on benchmarking capability of large-language models on software engineering tasks. 
 
