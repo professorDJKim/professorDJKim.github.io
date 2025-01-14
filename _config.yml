@@ -215,9 +215,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  # portfolio:
-  #   output: true
-  #   permalink: /:collection/:path/
+  team:
+    output: true
+    permalink: /:collection/:path/
   # talks:
   #   output: true
   #   permalink: /:collection/:path/
@@ -261,6 +261,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _team
+  - scope:
+      path: ""
+      type: team
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _portfolio
   - scope:
       path: ""
